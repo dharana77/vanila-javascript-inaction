@@ -1,3 +1,4 @@
-# vanila- Javascript in action
+# vanila- javascript in action
 
-nomad
+vanila-javascript in action 
+노마드 코더
